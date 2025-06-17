@@ -23,6 +23,6 @@ function criaCartao(categoria, pergunta, resposta) {
   container.appendChild(cartao);
 }
 
-criaCartao("História", "Quem foi Tiradentes?", "Um dos líderes da Inconfidência Mineira.");
-criaCartao("Matemática", "Qual é a raiz quadrada de 81?", "É 9.");
-criaCartao("Ciências", "O que é fotossíntese?", "É o processo pelo qual as plantas produzem seu próprio alimento.");
+criaCartao("Programação", "O que é JavaScript?", "JavaScript é uma linguagem de programação.");
+criaCartao("Matemática", "Quanto é 7 x 8?", "7 x 8 = 56.");
+criaCartao("Geografia", "Qual a capital da França?", "A capital da França é Paris.");
